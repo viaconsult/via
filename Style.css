@@ -1,0 +1,310 @@
+/*head*/
+
+
+/*header*/
+
+
+
+/* Logo  */
+#logo
+{
+height:100px;	
+}
+
+/* Image  */
+
+#cover
+{
+	opacity:.8;	
+}
+
+
+
+/*Nav*/
+nav-link
+{
+	font-size:1.2rem;
+	font-weight:Bold;
+}
+
+
+/* Les menus */
+
+
+#accueil
+{
+font-style: normal;	
+font-weight: bold;
+color:#088A29;
+
+}
+#service
+{
+font-style: normal;	
+font-weight: bold;
+color:#088A29;
+
+}
+#reference
+{
+font-style: normal;	
+font-weight: bold;
+color:#088A29;
+
+}
+#galerie
+{
+font-style: normal;	
+font-weight: bold;
+color:#088A29;
+
+}
+
+#contact
+{
+font-style: normal;	
+font-weight: bold;
+color:#088A29;
+
+}
+
+
+
+/* Contacter */
+
+#adres
+{
+
+	
+	text-decoration:underline;
+	font-style:normal;
+	color: #01DF3A;
+	position:float;
+}
+
+aside
+{
+float: right;
+margin: 30px;
+width:300px;
+border: 1px solid #FFFFFF;
+
+}
+#info
+{
+	position:relative;
+}
+#mail
+{
+font-style: normal;	
+font-weight:normal;
+color:blue;
+text-decoration: underline;
+}
+
+#wap
+{
+	color:#01DF3A;
+	font-weight:normal;
+	text-decoration:none;
+	font-style:none;
+}
+
+form
+{
+
+float: left;
+	
+}
+
+
+
+/*Slider*/
+
+.slider
+{
+width: 700px;
+height: 500px;
+margin: 100px auto;
+margin-top:20px;
+overflow: hidden;
+border:1px solid #FFFFFF;
+box-shadow: 1px 2px 10px #088A29;
+}
+.slide
+{
+float: left;
+}
+
+.slides
+{
+width: calc(700px* 30);
+animation: slider 60s infinite;
+}
+
+@keyframes slider {
+	
+0%{
+	transform:translateX(0px);
+	}
+	3%{
+		transform:translateX(-700px);
+	}
+	6%{
+		transform:translateX(-1400px);
+	}
+	9%{
+		transform:translateX(-2100px);
+	}
+	12%{
+		transform:translateX(-2800px);
+	}
+	15%{
+		transform:translateX(-3500px);
+	}
+	18%{
+		transform:translateX(-4200px);
+	}
+	21%{
+		transform:translateX(-4900px);
+	}
+	24%{
+		transform:translateX(-5600px);
+	}
+	27%{
+		transform:translateX(-6300px);
+	}
+	30%{
+		transform:translateX(-7000px);
+	}
+	33%{
+		transform:translateX(-7700px);
+	}
+	36%{
+		transform:translateX(-8400px);
+	}	
+	39%{
+		transform:translateX(-9100px);
+	}	
+	42%{
+		transform:translateX(-9800px);
+	}
+    45%{
+		transform:translateX(-10500px);
+	}
+    48%{
+		transform:translateX(-11200px);
+	}	
+    51%{
+		transform:translateX(-11900px);
+	}	
+    54%{
+		transform:translateX(-12600px);
+	}	
+    57%{
+		transform:translateX(-13300px);
+	}		
+	60%{
+		transform:translateX(-14000px);
+	}		
+	63%{
+		transform:translateX(-14700px);
+	}		
+	66%{
+		transform:translateX(-15400px);
+	}		
+	69%{
+		transform:translateX(-16100px);
+	}		
+	72%{
+		transform:translateX(-16800px);
+	}		
+	75%{
+		transform:translateX(-17500px);
+	}		
+	78%{
+		transform:translateX(-18200px);
+	}		
+	81%{
+		transform:translateX(-18900px);
+	}		
+	84%{
+		transform:translateX(-19600px);
+	}		
+	87%{
+		transform:translateX(-20300px);
+	}	
+    90%{
+		transform:translateX(-21000px);
+	}			
+}
+
+
+/* Footer */
+
+
+#droit
+{
+	text-decoration:none;
+	color: gray;
+	position:float;
+	font-style:normal;
+	clear:both;	
+}
+
+
+
+
+footer
+{
+	width:100%;
+	text-align:center;
+	position:bottom;	
+	bottom:0px;
+	clear:both;
+}
+
+
+/*Id du Top Link*/
+#go
+{
+float:right;
+opacity: .4;
+}
+
+
+
+
+/*
+// Table of content
+// -----------------------------------------------------------------------------
+// - 1. Accueil
+// - 2. Nos Services
+   - 3. Références
+// - 4. Galerie
+// - 5. Nous Contacter
+*/
+/* -----------------------------------------------------------------------------
+// 1. Accueil
+// ----------------------------------------------------------------------------- */
+
+
+/* -----------------------------------------------------------------------------
+// 2. Nos Services
+// ----------------------------------------------------------------------------- */
+.
+
+/* -----------------------------------------------------------------------------
+// 3. Références 
+// ----------------------------------------------------------------------------- */
+
+
+/* -----------------------------------------------------------------------------
+// 4. Galerie 
+// ----------------------------------------------------------------------------- */
+
+
+/* -----------------------------------------------------------------------------
+// 5. Nous Contacter
+// ----------------------------------------------------------------------------- */
+
